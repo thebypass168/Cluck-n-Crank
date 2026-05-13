@@ -1,0 +1,14 @@
+/* Cluck N Crank styles */
+
+/* TODO: move inline CSS from index.html into this file. */
+
+:root {
+  --cnc-bg: #070a10;
+  --cnc-text: #e6edf7;
+}
+
+body {
+  margin: 0;
+  background: var(--cnc-bg);
+  color: var(--cnc-text);
+}
